@@ -9,7 +9,7 @@
                 "http://web.whatsapp.com/*",
                 "https://web.whatsapp.com/*"
             ],
-            "js": ["index.js"]
+            "js": ["exporter.js"]
         }
     ]
 }
