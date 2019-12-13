@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "WhatsApp Group Exporter",
+    "version": "0.1",
+    "description": "A simple and free extension to export all the unknown numbers of a WhatsApp group!",
+    "content_scripts": [
+        {
+            "matches": [
+                "http://web.whatsapp.com/*",
+                "https://web.whatsapp.com/*"
+            ],
+            "js": ["index.js"]
+        }
+    ]
+}
