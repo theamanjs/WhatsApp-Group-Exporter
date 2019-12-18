@@ -1,21 +1,21 @@
 # WhatsApp Group Exporter(WaGE)
 
-WhatsApp Group Exporter(WaGE) is made to export all the unknown contacts in WhatsApp group. WaGE is open source and free. Install WaGE and go to https://web.whatsapp.com by default this extension will be invoked only on WhatsApp Web, you can see the permissons of WaGE. WaGE doesn't collect any kind of data from your machine.
+WhatsApp Group Exporter(WaGE) is made to export all the unknown contacts in WhatsApp group. WaGE is open source and free. Install WaGE and go to [WhatsApp Web](https://web.whatsapp.com) by default this extension will be invoked only on WhatsApp Web, you can see the permissons of WaGE. WaGE doesn't collect any kind of data from your machine.
 
 # Installation(For Google Chrome) 
 Follow these steps to install the extension locally for development purpose in Google Chrome
-1. Clone the repository using command ```git clone https://github.com/theamanjs/WhatsApp-Group-Exporter/```
-2. Open Google Chrome -> Go to extensions directly from settings or putting ```chrome://extensions``` in url
-3. Make sure you've enabled the option of ```Developer mode``` on top right
-4. Click on ```Load Unpacked``` on left top
+1. Clone the repository using command `git clone https://github.com/theamanjs/WhatsApp-Group-Exporter/`
+2. Open Google Chrome -> Go to extensions directly from settings or putting `chrome://extensions` in url
+3. Make sure you've enabled the option of `Developer mode` on top right
+4. Click on `Load Unpacked` on left top
 5. Select the path of the extension
 6. The extension will be added to the extension bar in the browser
 
 # Installation(For Firefox)
 Follow these steps to install the extension locally for development purpose in Firefox
-1. Clone the repository using command ```git clone https://github.com/theamanjs/WhatsApp-Group-Exporter/```
-2. Open Firefox -> Go to extensions directly from settings or putting ```about:addons``` in url
-3. Click on the settings button under the search bar -> Select the ```Install Add-on from files```
+1. Clone the repository using command `git clone https://github.com/theamanjs/WhatsApp-Group-Exporter/`
+2. Open Firefox -> Go to extensions directly from settings or putting `about:addons` in url
+3. Click on the settings button under the search bar -> Select the `Install Add-on from files`
 4. Select the path of the extension
 5. The extension will be added to the extension bar in the browser
 
@@ -36,12 +36,12 @@ To run WaGE you can refer the screenshots or follow the steps below:
 * WaGE only have access to WhatsApp Web
 * WaGE can access and update the website informatin only on client side but leaves all data on client machine
 
-## Disclaimer: WaGE do not promote any unethical activity, this is made just to automate and make work easier.
+> Disclaimer: WaGE do not promote any unethical activity, this is made just to automate and make work easier.
 
 # Future Scope
-- [] Add number of unkown contacts pop up on button
-- [] Giving output in both .csv and .vcf file
-- [] Removing Export button in personal chats
+- [ ] Add number of unkown contacts pop up on button
+- [ ] Giving output in both .csv and .vcf file
+- [ ] Removing Export button in personal chats
 
 # Code Distribution 
 Code can be used anywhere without any restrictions but it should not violates the guidelines of license. This extension is licensed under MIT.
