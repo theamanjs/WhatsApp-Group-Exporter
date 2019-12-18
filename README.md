@@ -30,10 +30,18 @@ To run WaGE you can refer the screenshots or follow the steps below:
 6. Upcoming prompt will ask for starting number of series. You can set the starting number in that prompt or continue with default series starting from 1.
 7. Boom the unkown contact are exported. You can directly import to you phone by going to Google Contacts(For Android Users). For iPhone users -> You need to convert the CSV file to vCard first and then the file will be imported.
 
+# Permissions and Scope
+* WaGE do not collect any kind data from your machine
+* WaGE do not violates the privacy policy of any website or guideline
+* WaGE only have access to WhatsApp Web
+* WaGE can access and update the website informatin only on client side but leaves all data on client machine
 
-WaGE do not collect any kind data from your machine. The code can be accessed from github soon and link will be given.
+## Disclaimer: WaGE do not promote any unethical activity, this is made just to automate and make work easier.
 
-Disclaimer: WaGE do not promote any unethical activity, this is made just to automate and make work easier.
+# Future Scope
+- [] Add number of unkown contacts pop up on button
+- [] Giving output in both .csv and .vcf file
+- [] Removing Export button in personal chats
 
 # Code Distribution 
 Code can be used anywhere without any restrictions but it should not violates the guidelines of license. This extension is licensed under MIT.
