@@ -2,7 +2,7 @@
 
 WhatsApp Group Exporter(WaGE) is made to export all the unknown contacts in WhatsApp group. WaGE is open source and free. Install WaGE and go to [WhatsApp Web](https://web.whatsapp.com) by default this extension will be invoked only on WhatsApp Web, you can see the permissons of WaGE. WaGE doesn't collect any kind of data from your machine.
 
-# Installation(For Google Chrome) 
+# Installation for development(Google Chrome) 
 Follow these steps to install the extension locally for development purpose in Google Chrome
 1. Clone the repository using command `git clone https://github.com/theamanjs/WhatsApp-Group-Exporter/`
 2. Open Google Chrome -> Go to extensions directly from settings or putting `chrome://extensions` in url
@@ -11,7 +11,7 @@ Follow these steps to install the extension locally for development purpose in G
 5. Select the path of the extension
 6. The extension will be added to the extension bar in the browser
 
-# Installation(For Firefox)
+# Installation for development(For Firefox)
 Follow these steps to install the extension locally for development purpose in Firefox
 1. Clone the repository using command `git clone https://github.com/theamanjs/WhatsApp-Group-Exporter/`
 2. Open Firefox -> Go to extensions directly from settings or putting `about:addons` in url
@@ -19,8 +19,13 @@ Follow these steps to install the extension locally for development purpose in F
 4. Select the path of the extension
 5. The extension will be added to the extension bar in the browser
 
+# Installation for non-development purpose(Google Chrome)
+Follow the link to install this from chrome store click -> [WhatsApp Group Exporter](https://chrome.google.com/webstore/detail/whatsapp-group-exporter/hddmefgpojdbpphfcpmecabdfhieahpl?hl=en)
 
-# How to run locally?
+# Installation for non-development purpose(Firefox)
+Follow the link to install this from Firefox Addons click -> [WhatsApp Group Exporter](https://addons.mozilla.org/en-US/firefox/addon/whatsapp-group-exporter/)
+
+# How to run?
 To run WaGE you can refer the screenshots or follow the steps below:
 1. Open WhatsApp Web on your machine.
 2. Open the group whose number you want to export.
