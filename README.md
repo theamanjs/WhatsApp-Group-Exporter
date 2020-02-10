@@ -50,3 +50,6 @@ To run WaGE you can refer the screenshots or follow the steps below:
 
 # Code Distribution 
 Code can be used anywhere without any restrictions but it should not violates the guidelines of license. This extension is licensed under MIT.
+
+# Disclaimer
+WhatsApp are registered trademarks of respective companies in the U.S and other countries. This Chrome plugin is not endorsed, belong, relate or certified WhatsApp Inc. This is an unofficial enhancement for WhatsApp Web.WaGE do not promote any unethical activity, this is made just to automate and make work easier.
