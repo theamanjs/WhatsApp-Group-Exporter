@@ -1,12 +1,12 @@
 {
     "manifest_version": 2,
-    "name": "WhatsApp Group Exporter",
+    "name": "WA Group Exporter",
     "short_name": "WaGE",
     "icons":{
         "128": "csv.png"
     },
     "version": "0.1",
-    "description": "A simple and free extension to export all the unknown numbers of a WhatsApp group!",
+    "description": "A simple and free extension to export all the unknown numbers of a group!",
     "content_scripts": [
         {
             "matches": [
