@@ -1,4 +1,4 @@
-# WhatsApp Group Exporter(WaGE)
+# WhatsApp Group Exporter(WaGE) (Deprecated)
 
 WhatsApp Group Exporter(WaGE) is made to export all the unknown contacts in WhatsApp group. WaGE is open source and free. Install WaGE and go to [WhatsApp Web](https://web.whatsapp.com) by default this extension will be invoked only on WhatsApp Web, you can see the permissons of WaGE. WaGE doesn't collect any kind of data from your machine.
 
